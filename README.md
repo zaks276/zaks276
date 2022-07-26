@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently leveling up my frontend skills
 - 🤔 I'm interested in Web development
-- 📫 How to reach me: [khan.mz@hotmail.com](mailto:khan.mz@hotmail.com) | [www.linkedin.com/in/mohammed-zakaria-khan](https://www.linkedin.com/in/mohammed-zakaria-khan)
+- 📫 How to reach me: [Email](mailto:khan.mz@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/mohammed-zakaria-khan)
 
 <!--
 **zaks276/zaks276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
