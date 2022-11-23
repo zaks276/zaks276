@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello there 👋
 
 - 🌱 I’m currently leveling up my frontend skills
 - 🤔 I'm interested in Web development
